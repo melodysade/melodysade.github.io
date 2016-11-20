@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://www.minddistrict.com/corporate/wp-content/uploads/sites/5/2015/01/blue-abstract-background-3439-hd-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h4 {font-family: 'Pacifico', cursive;
+    color: #1d54ad;
+  
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+  
+}
+
+.navbar {font-family: 'Pacifico', cursive;
+  
+}
+
+.card-block {background-color: #d0d0dd;
+}
+    
